@@ -67,3 +67,7 @@ group :test do
   gem "capybara"
   gem "selenium-webdriver"
 end
+
+gem "action_auth", "~> 0.3.0"
+
+gem "letter_opener", "~> 1.9"
